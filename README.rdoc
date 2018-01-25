@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fdevise_invitable.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fdevise_invitable?ref=badge_shield)
+
 = DeviseInvitable
 {<img src="https://badge.fury.io/rb/devise_invitable.svg"/>}[http://badge.fury.io/rb/devise_invitable] {<img src="https://travis-ci.org/scambra/devise_invitable.png"/>}[https://travis-ci.org/scambra/devise_invitable] {<img src="https://codeclimate.com/github/scambra/devise_invitable/badges/gpa.svg"/}[https://codeclimate.com/github/scambra/devise_invitable]
 
@@ -439,3 +441,7 @@ Special thanks to rymai[https://github.com/rymai] for the Rails 3 support, his f
 == Copyright
 
 Copyright (c) 2014 Sergio Cambra. See LICENSE for details.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fdevise_invitable.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fdevise_invitable?ref=badge_large)
